@@ -1,4 +1,4 @@
-# What is this projecT?:
+# What is this project?:
 
 This project is a projectile simulator, which works by simulating bounce physics of balls,  by calculating surface normals and bounce velocities.
 
